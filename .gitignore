@@ -1,0 +1,5 @@
+*.pyc
+*.pyo
+*.csv
+*.txt
+corpus_dict_data/*
